@@ -1,6 +1,5 @@
-#pragma once
-#include <string>
 
+#include <string>
 using namespace std;
 
 namespace Processes
@@ -8,7 +7,7 @@ namespace Processes
 	class Selector
 	{
 	public:
-
+		// Selector();
 		string ListWindows();
 	};
 }

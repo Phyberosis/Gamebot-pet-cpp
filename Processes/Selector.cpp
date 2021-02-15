@@ -2,7 +2,10 @@
 
 namespace Processes
 {
-	string Selector::ListWindows() {
-		
-	}
-}
+
+    string Selector::ListWindows()
+    {
+        return "s";
+    }
+
+} // namespace Processes
